@@ -1,0 +1,4 @@
+rawQSRDISTgtSameOrder.mat : Last best performing variable 93 %
+rawQSRDISTgtJan-1.mat : Prune blindly last items to keep first 3 pairs 
+rawQSRDISTgtJan-2.mat : Prune locally last items to keep top 3 most interactive pairs LOCALLY
+rawQSRDISTgtJan-3.mat : Prune randomly last items to keep top 3 
